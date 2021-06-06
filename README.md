@@ -14,6 +14,6 @@ Furthermore, I love to spend my free time on 🏔hiking, 🤿scuba diving, 🏝t
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisyl&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisyl&hide=html,css&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisyl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
