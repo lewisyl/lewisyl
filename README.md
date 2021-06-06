@@ -16,4 +16,4 @@ Furthermore, I love to spend my free time on 🏔hiking, 🤿scuba diving, 🏝t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisyl&hide=html,css&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisyl&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Lewis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisyl&theme=ayu-mirage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
