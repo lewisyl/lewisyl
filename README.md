@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Lewis Liu!
+### 👋Hi, I'm Lewis Liu!
 
 A 💻Full-stack Software Engineer and Web Developer who loves to solve problems and build things with 💯full of passions and a hard-working ethic. I'm also a great 👥team-player who believes in ⌈1+1>2⌋, and a fast ✍learner who is able to absorb new knowledge 🚀quickly.
 
